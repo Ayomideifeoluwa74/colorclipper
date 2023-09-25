@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+#bold {
+    border: 8px solid blueviolet;
+    width: 50%;
+    height: 50%;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+#btn {
+    padding: 10px 30px;
+    font-size: 30px;
+    margin-top: 250px;
+    margin-left: 100px;
+    background-color: darkturquoise;
+    border: none;
+    border-radius: 10px;
+    color:palevioletred;
+}
+#btn:hover {
+    background-color:yellowgreen
+}
+/* #clippper  {
+        border: 1px solid black;
+        margin: auto;
+        font-size: 30px;
+        background-color:aqua;
+        
+} */
